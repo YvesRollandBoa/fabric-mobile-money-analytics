@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "lh_mobile_money"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1e2529dc-2378-98cf-419e-31b17e88a803"
+  }
+}
